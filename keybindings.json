@@ -1,0 +1,11 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+{ "key": "ctrl+right",       "command": "cursorWordStartRight",
+                                "when": "editorTextFocus" },
+{ "key": "ctrl+shift+right", "command": "cursorWordStartRightSelect",
+                                "when": "editorTextFocus" },
+{ "key": "ctrl+backspace",   "command": "deleteWordStartLeft",
+                                "when": "editorTextFocus" },
+{ "key": "ctrl+delete",      "command": "deleteWordStartRight",
+                                "when": "editorTextFocus" }
+]

@@ -1,0 +1,6 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "locale": "en-US",
+    "python.pythonPath": "D:/Python27/python.exe",
+    "cmake.cmakePath": "C:/Program Files (x86)/CMake/bin/cmake.exe"
+}
